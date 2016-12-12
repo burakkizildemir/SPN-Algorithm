@@ -1,0 +1,12 @@
+C:\Users\legolas\Documents\Visual Studio 2015\Projects\muratSvc\muratSvc\bin\muratSvc.dll.config
+C:\Users\legolas\Documents\Visual Studio 2015\Projects\muratSvc\muratSvc\bin\muratSvc.dll
+C:\Users\legolas\Documents\Visual Studio 2015\Projects\muratSvc\muratSvc\bin\muratSvc.pdb
+C:\Users\legolas\Documents\Visual Studio 2015\Projects\muratSvc\muratSvc\obj\Debug\muratSvc.csprojResolveAssemblyReference.cache
+C:\Users\legolas\Documents\Visual Studio 2015\Projects\muratSvc\muratSvc\obj\Debug\muratSvc.dll
+C:\Users\legolas\Documents\Visual Studio 2015\Projects\muratSvc\muratSvc\obj\Debug\muratSvc.pdb
+C:\Users\legolas\Desktop\muratSvc\muratSvc\bin\muratSvc.dll.config
+C:\Users\legolas\Desktop\muratSvc\muratSvc\bin\muratSvc.dll
+C:\Users\legolas\Desktop\muratSvc\muratSvc\bin\muratSvc.pdb
+C:\Users\legolas\Desktop\muratSvc\muratSvc\obj\Debug\muratSvc.csprojResolveAssemblyReference.cache
+C:\Users\legolas\Desktop\muratSvc\muratSvc\obj\Debug\muratSvc.dll
+C:\Users\legolas\Desktop\muratSvc\muratSvc\obj\Debug\muratSvc.pdb

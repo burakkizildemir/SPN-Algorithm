@@ -1,0 +1,5 @@
+C:\Users\legolas\Desktop\muratSvc\muratSvc\bin\muratSvc.dll.config
+C:\Users\legolas\Desktop\muratSvc\muratSvc\bin\muratSvc.dll
+C:\Users\legolas\Desktop\muratSvc\muratSvc\bin\muratSvc.pdb
+C:\Users\legolas\Desktop\muratSvc\muratSvc\obj\Debug\muratSvc.dll
+C:\Users\legolas\Desktop\muratSvc\muratSvc\obj\Debug\muratSvc.pdb
